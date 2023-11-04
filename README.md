@@ -9,7 +9,7 @@ docker exec -ti fluence-peer-123xxx curl -X POST ...
 ```
 confirm location of curl binary: 
 ```
-docker exec -ti fluence-peer-123xxx which curl:
+docker exec -ti fluence-peer-123xxx which curl
 ```
 /usr/bin/curl
 
